@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+.main-container{
+  margin: 0 auto;
+  text-align: center;
+  max-width: 50%;
+  padding-bottom: 10px;
+  border: 2px solid;
+  border-color: #ccc;
+  border-radius: 5px;
+}
